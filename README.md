@@ -14,16 +14,29 @@ A simple and responsive Calculator built using HTML, CSS, and JavaScript. This p
 
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
+
+## PROJECT PREVIEW
+
+<img width="1062" height="597" alt="Screenshot 2026-06-08 at 14-51-30 CALCULATOR" src="https://github.com/user-attachments/assets/60a5e7d9-0c23-426b-b987-3c30a824f65d" />
+
+
 
 ## PROJECT STRUCTURE
 
+```text
 Calculator-Project :
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
-- index.html
-- calc.css
-- calc.js
-- README.md
+## AUTHOR NAME
+
+Created By **Ronak Ameta**
+
 
 
 
