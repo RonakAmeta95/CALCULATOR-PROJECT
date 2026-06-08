@@ -1,4 +1,4 @@
-# CALCULATOR PROJECT
+# CALCULATOR PROJECT 
 
 A simple and responsive Calculator built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations with a clean and user-friendly interface.
 
@@ -18,11 +18,19 @@ A simple and responsive Calculator built using HTML, CSS, and JavaScript. This p
 
 ## PROJECT STRUCTURE
 
-calculator-project
-│
-├── index.html
-├── calc.css
-├── calc.js
-└── README.md
+Calculator-Project :
 
-## Project Struct
+- index.html
+- calc.css
+- calc.js
+- README.md
+
+
+
+
+
+
+
+
+
+
