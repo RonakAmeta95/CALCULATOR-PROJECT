@@ -16,5 +16,13 @@ A simple and responsive Calculator built using HTML, CSS, and JavaScript. This p
 - CSS
 - JavaScript 
 
+## PROJECT STRUCTURE
+
+calculator-project/
+│
+├── index.html
+├── calc.css
+├── calc.js
+└── README.md
 
 ## Project Struct
