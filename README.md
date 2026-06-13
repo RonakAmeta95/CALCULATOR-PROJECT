@@ -33,9 +33,10 @@ Calculator-Project :
 └── README.md
 ```
 
-## AUTHOR NAME
+## DEVELOPER
 
-Created By **Ronak Ameta**
+**RONAK AMETA**
+
 
 
 
